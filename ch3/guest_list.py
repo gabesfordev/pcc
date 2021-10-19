@@ -1,4 +1,4 @@
-guest_lst = ['alice', 'bob', 'clau', 'david', 'Eli']
+guest_lst = ['alice', 'bob', 'tim', 'liz', 'eli']
 
 print(f'{guest_lst[0]} please come to dinner.')
 print(f'{guest_lst[1]} please come to dinner.')
