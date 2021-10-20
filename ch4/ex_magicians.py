@@ -1,4 +1,4 @@
-####            0       1      2
+#### INDEX      0       1      2
 magicians = ['alice', 'bob', 'liz']
 
 print("printing one by one.")
