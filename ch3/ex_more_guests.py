@@ -2,9 +2,9 @@ guest_lst = ['alice', 'bob', 'clau', 'david', 'Eli']
 
 print('I found a bigger dinner table.\n')
 
-guest_lst.insert(0, 'zoro')
-guest_lst.insert(2, 'vagneri')
-guest_lst.insert(-1, 'krimhilda')
+guest_lst.insert(0, 'zad')
+guest_lst.insert(2, 'mark')
+guest_lst.insert(-1, 'lili')
 
 
 print(f'{guest_lst[0]} please come to dinner.')
