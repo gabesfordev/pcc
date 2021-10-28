@@ -1,4 +1,5 @@
 cars = ['audi', 'bmw', 'subaru', 'toyota']
+print(cars)
 
 for car in cars:
     if car == 'bmw':
