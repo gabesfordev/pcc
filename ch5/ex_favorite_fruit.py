@@ -1,5 +1,5 @@
 favorite_fruits = ['apple', 'banana', 'orange']
-fruit = 'strawberry'
+
 
 if 'apple' in favorite_fruits:
     print(f'Do you realy like apple')
