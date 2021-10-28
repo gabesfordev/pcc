@@ -6,6 +6,6 @@ for i in menu:
 # menu[0] = 'hot dog' # this will return TypeError
 
 print("\nThis is modified menu:")
-menu = ('khacha', 'chaqa', 'stake')
+menu = ('burger', 'wings', 'stake')
 for i in menu:
     print(i)
